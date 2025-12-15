@@ -1,8 +1,8 @@
 {
   "name": "SGPT",
   "short_name": "SGPT",
-  "start_url": "/sgpt-pwa/",
-  "scope": "/sgpt-pwa/",
+  "start_url":  "/SGPT-PWA/",
+  "scope": "/SGPT-PWA/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#0d6efd",
